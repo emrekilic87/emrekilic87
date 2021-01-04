@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi, I am Emre Kılıç <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<!--
-**emrekilic87/emrekilic87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Frontend Developer and Mentor.
 
-Here are some ideas to get you started:
+## ⚡ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Html 
+* Css | Less | Scss
+* Pure Javascript | Jquery | Vue | React
+* Git | Tfs
+* Npm | Yarn
+* Terminal | iTerm | Hyper
+* Vercel
+
+## 📫 Get in touch
+- Website - [mehmetemrekilic.com](https://www.mehmetemrekilic.com) 
+- LinkedIn - [Emre Kılıç](http://www.linkedin.com/in/emrekilic)
+- Twitter - [@emrekilic87](http://twitter.com/emrekilic87)
+- Superpeer - [emrekilic](https://superpeer.com/emrekilic)
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=emrekilic87/emrekilic87)
