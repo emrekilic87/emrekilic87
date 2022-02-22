@@ -1,6 +1,6 @@
 # Hi, I am Emre Kılıç <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I am a Frontend Developer and Mentor.
+I am a Frontend Developer.
 
 ## ⚡ Tech Stack
 
